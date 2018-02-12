@@ -2,7 +2,7 @@
 
 ## Configuration of file
 
-Just have to put this info on the script file.
+You just have to put this information in the script file.
 
 ```bat
 DIRPROJECT="Directory of your project"
